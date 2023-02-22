@@ -14,7 +14,7 @@ However, there are anatomical constraints with this type of treatment:
 - Calcifications of the femoral artery
 - Hip joint
 
-## OBJECTIF
+## GOALS
 - Analysis of categorical and continuous variables
 - Analysis of categorical and continuous variables in patients by group: stent-on-balloon (SB) and self-expanding stent (AE)
 - PRIMARY PERFORMANCE OF STENTS ON THE BALLoon VS SELF-EXPANDING STENTS AT D1, M2 and M12
