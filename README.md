@@ -50,6 +50,9 @@ The Range: defined by the minimum and maximum of a variable
 Notch at the median: useful to give an idea of the size of the difference between the medians; if the notches of two boxes do not overlap, it proves that there is a statistically significant difference between the medians.
 
 
+#### Thanks for following
+
+
 
 
 
